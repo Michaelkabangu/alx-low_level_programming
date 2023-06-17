@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - ART
- * Return: always return 1
+ * Return: always returns 1
  */
 int main(void)
 {
